@@ -10,10 +10,10 @@ Cellular Automata を用いたマップ生成 for Unreal Engine
 - マップ生成用のActorにAC_MapGeneratorをアタッチします
 
 - アタッチしたActorで使用で下記のようにBPを組みます(実際にはPrintMapの部分はコメントで囲っている部分と差し替えてマップ生成に利用します)
-![bp](_Documents/bp.png)
+![bp](_Documents/bp.PNG)
 
 - PrintMapによる出力例
-![printmap](_Documents/printmap.png)
+![printmap](_Documents/printmap.PNG)
 
 ## 参考
 - [Roguelike Development Resources](https://github.com/marukrap/RoguelikeDevResources)
